@@ -1,4 +1,4 @@
-import calc.py
+import calc
 
 b = int(input())
 h = int(input())
